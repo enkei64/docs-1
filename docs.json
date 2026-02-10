@@ -53,7 +53,8 @@
               "layers/emitter-layers",
               "layers/replicator-layers",
               "layers/liquid-glass-layers",
-              "layers/transform-layers"
+              "layers/transform-layers-3d",
+              "layers/transform-layers-gyro"
             ]
           },
           {
